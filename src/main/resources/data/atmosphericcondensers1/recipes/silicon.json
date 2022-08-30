@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "atmosphericcondensers1:silicon_mixture"
+    },
+        "result": "atmosphericcondensers1:silicon",
+        "experience": 0.2,
+        "cookingtime": 200
+
+}

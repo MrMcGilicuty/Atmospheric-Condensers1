@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "atmosphericcondensers1:raw_circuit_board",
+    "atmosphericcondensers1:circuit_board_lv1",
+    "atmosphericcondensers1:circuit_board_lv2"
+  ]
+}

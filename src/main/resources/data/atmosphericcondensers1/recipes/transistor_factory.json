@@ -1,0 +1,29 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    "SSS",
+    "IRI",
+    "BBB"
+
+  ],
+  "key": {
+    "I": {
+      "item": "atmosphericcondensers1:silicon"
+    },
+    "S": {
+      "tag": "forge:ingots/steel"
+    },
+    "R": {
+      "item": "minecraft:anvil"
+    },
+    "B": {
+      "tag": "forge:storage_blocks/steel"
+    }
+  },
+  "result": {
+    "item": "atmosphericcondensers1:transistor_factory",
+    "count": 1
+  }
+}

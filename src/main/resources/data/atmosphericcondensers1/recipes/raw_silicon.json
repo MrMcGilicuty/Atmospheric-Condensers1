@@ -1,0 +1,23 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+      " I ",
+      "IBI",
+      " I "
+
+    ],
+    "key": {
+      "I": {
+        "tag": "atmosphericcondensers1:quartz_dust"
+      },
+      "B": {
+        "tag": "atmosphericcondensers1:bitumen"
+      }
+    },
+  "result": {
+      "item": "atmosphericcondensers1:silicon_mixture",
+      "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "atmosphericcondensers1:block/silica_sand"
+  }
+}

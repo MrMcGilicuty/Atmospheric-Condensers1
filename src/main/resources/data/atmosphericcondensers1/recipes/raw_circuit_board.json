@@ -1,0 +1,23 @@
+{
+  "type": "atmosphericcondensers1:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:green_dye"
+    }
+  ],
+  "output": {
+    "item": "atmosphericcondensers1:raw_circuit_board"
+  }
+}

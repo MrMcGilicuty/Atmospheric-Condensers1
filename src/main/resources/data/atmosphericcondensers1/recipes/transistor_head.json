@@ -1,0 +1,14 @@
+{
+  "type": "atmosphericcondensers1:transistor_fabrication",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "atmosphericcondensers1:silicon"
+    }
+  ],
+  "output": {
+    "item": "atmosphericcondensers1:transistor_head"
+  }
+}

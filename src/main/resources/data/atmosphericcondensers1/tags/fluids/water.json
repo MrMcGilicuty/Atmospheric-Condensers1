@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "atmosphericcondensers1:liquid_nitrogen_flowing",
+    "atmosphericcondensers1:liquid_nitrogen_fluid"
+  ]
+}

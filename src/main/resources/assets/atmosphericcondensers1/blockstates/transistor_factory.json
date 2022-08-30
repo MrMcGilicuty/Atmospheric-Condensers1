@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "atmosphericcondensers1:block/transistor_factory" },
+    "facing=east": { "model": "atmosphericcondensers1:block/transistor_factory", "y": 90 },
+    "facing=south": { "model": "atmosphericcondensers1:block/transistor_factory", "y": 180 },
+    "facing=west": { "model": "atmosphericcondensers1:block/transistor_factory", "y": 270 }
+  }
+}
