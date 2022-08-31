@@ -119,7 +119,7 @@ public class CondenserHousing1BlockEntity extends BlockEntity implements MenuPro
 
     @Nonnull
     @Override
-    public <T> LazyOptional<T> getCapability(@Nonnull Capability<T> cap, @javax.annotation.Nullable Direction side) {
+    public <T> LazyOptional<T> getCapability(Capability<T> cap, Direction side) {
         return cap == CapabilityEnergy.ENERGY ? this.energy.cast() : super.getCapability(cap, side);
     }
 
@@ -249,8 +249,8 @@ public class CondenserHousing1BlockEntity extends BlockEntity implements MenuPro
 //            @Override
 //            public int extractEnergy(int maxExtract, boolean simulate) {
 //                final int e = super.extractEnergy(maxExtract, simulate);
-//                PacketHandler.INSTANCE.send(PacketDistributor.ALL.noArg(),
-//                        new ClientboundUpdateEnergyStorageScreenPacket(this.energy));
+////                PacketHandler.INSTANCE.send(PacketDistributor.ALL.noArg(),
+////                        new ClientboundUpdateEnergyStorageScreenPacket(this.energy));
 //                return e;
 //            }
 

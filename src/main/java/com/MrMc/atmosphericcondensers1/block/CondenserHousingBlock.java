@@ -2,7 +2,6 @@ package com.MrMc.atmosphericcondensers1.block;
 
 import com.MrMc.atmosphericcondensers1.init.entity.ModBlockEntities;
 import com.MrMc.atmosphericcondensers1.init.entity.custom.CondenserHousing1BlockEntity;
-import com.google.common.eventbus.Subscribe;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.server.level.ServerPlayer;
@@ -23,7 +22,6 @@ import net.minecraft.world.level.block.state.properties.DirectionProperty;
 import net.minecraft.world.phys.BlockHitResult;
 import net.minecraft.world.phys.shapes.CollisionContext;
 import net.minecraft.world.phys.shapes.VoxelShape;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.network.NetworkHooks;
 import org.jetbrains.annotations.Nullable;
 

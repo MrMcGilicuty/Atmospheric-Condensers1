@@ -67,7 +67,7 @@ public class CondenserHousingScreen extends AbstractContainerScreen<CondenserHou
         final int maxEnergy = 32000;
         final int scaledEnergy = (int) mapNumber(energyStored, 0, maxEnergy, 0, 122);
 //        bindTexture();
-//        blit(stack, x + 16, y + 16 - scaledEnergy, 227, 58 - scaledEnergy, 58, scaledEnergy);
+        blit(stack, x + 16, y + 16 - scaledEnergy, 227, 58 - scaledEnergy, 58, scaledEnergy);
 
 //        this.font.draw(stack, this.title, x + 7, y + 3, 0x404040);
         this.font.draw(stack, this.energy + "RF", x + 34, y + 57, 0x404040);
