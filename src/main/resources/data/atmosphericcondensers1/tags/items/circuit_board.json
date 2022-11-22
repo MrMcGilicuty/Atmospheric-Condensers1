@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "atmosphericcondensers1:raw_circuit_board",
-    "atmosphericcondensers1:circuit_board_lv1",
-    "atmosphericcondensers1:circuit_board_lv2"
+    "atmospheric_condensers:raw_circuit_board",
+    "atmospheric_condensers:circuit_board_lv1",
+    "atmospheric_condensers:circuit_board_lv2"
   ]
 }

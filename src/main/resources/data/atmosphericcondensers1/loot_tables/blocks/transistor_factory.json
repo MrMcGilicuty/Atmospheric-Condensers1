@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "atmosphericcondensers1:transistor_factory"
+          "name": "atmospheric_condensers:transistor_factory"
         }
       ],
       "conditions": [

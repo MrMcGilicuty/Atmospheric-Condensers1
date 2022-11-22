@@ -17,8 +17,8 @@ apply plugin: 'net.minecraftforge.gradle'
 
 
 version = '1.0'
-group = 'com.MrMc.atmosphericcondensers1'
-archivesBaseName = 'atmosphericcondensers1'
+group = 'com.MrMc.atmospheric_condensers'
+archivesBaseName = 'atmospheric_condensers'
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
@@ -61,10 +61,10 @@ minecraft {
             property 'forge.logging.console.level', 'debug'
 
             // Comma-separated list of namespaces to load gametests from. Empty = all namespaces.
-            property 'forge.enabledGameTestNamespaces', 'AtmosphericCondensers1'
+            property 'forge.enabledGameTestNamespaces', 'atmospheric_condensers'
 
             mods {
-                atmosphericcondensers1 {
+                atmospheric_condensers {
                     source sourceSets.main
                 }
             }
@@ -78,10 +78,10 @@ minecraft {
             property 'forge.logging.console.level', 'debug'
 
             // Comma-separated list of namespaces to load gametests from. Empty = all namespaces.
-            property 'forge.enabledGameTestNamespaces', 'AtmosphericCondensers1'
+            property 'forge.enabledGameTestNamespaces', 'atmospheric_condensers'
 
             mods {
-                atmosphericcondensers1 {
+                atmospheric_condensers {
                     source sourceSets.main
                 }
             }
@@ -109,7 +109,7 @@ minecraft {
             property 'forge.enabledGameTestNamespaces', 'examplemod'
 
             mods {
-                atmosphericcondensers1 {
+                atmospheric_condensers {
                     source sourceSets.main
                 }
             }
@@ -123,10 +123,10 @@ minecraft {
             property 'forge.logging.console.level', 'debug'
 
             // Specify the modid for data generation, where to output the resulting resource, and where to look for existing resources.
-            args '--mod', 'atmosphericcondensers1', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
+            args '--mod', 'atmospheric_condensers', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
 
             mods {
-                atmosphericcondensers1 {
+                atmospheric_condensers {
                     source sourceSets.main
                 }
             }

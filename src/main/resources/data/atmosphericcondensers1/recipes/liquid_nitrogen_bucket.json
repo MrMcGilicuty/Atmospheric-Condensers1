@@ -1,17 +1,17 @@
 {
-  "type": "atmosphericcondensers1:condensing",
+  "type": "atmospheric_condensers:condensing",
     "ingredients": [
       {
-        "tag": "atmosphericcondensers1:transistors"
+        "tag": "atmospheric_condensers:transistors"
       },
       {
-        "item": "atmosphericcondensers1:raw_circuit_board"
+        "item": "atmospheric_condensers:raw_circuit_board"
       },
       {
-        "item": "atmosphericcondensers1:raw_circuit_board"
+        "item": "atmospheric_condensers:raw_circuit_board"
       }
     ],
     "output": {
-      "item": "atmosphericcondensers1:liquid_nitrogen_bucket"
+      "item": "atmospheric_condensers:liquid_nitrogen_bucket"
     }
 }

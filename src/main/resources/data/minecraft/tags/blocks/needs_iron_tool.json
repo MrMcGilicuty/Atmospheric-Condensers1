@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "atmosphericcondensers1:bitumen_ore",
-        "atmosphericcondensers1:transistor_factory",
-        "atmosphericcondensers1:condenser_housing"
+        "atmospheric_condensers:bitumen_ore",
+        "atmospheric_condensers:transistor_factory",
+        "atmospheric_condensers:condenser_housing"
     ]
 }

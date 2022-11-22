@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "atmospheric_condensers:block/bitumen_ore"
+        }
+    }
+}

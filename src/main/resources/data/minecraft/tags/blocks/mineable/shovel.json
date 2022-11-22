@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-            "atmosphericcondensers1:silica_sand"
+            "atmospheric_condensers:silica_sand"
 
     ]
 }

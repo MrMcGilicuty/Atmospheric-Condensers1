@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "atmosphericcondensers1:raw_bitumen"
+          "name": "atmospheric_condensers:raw_bitumen"
         }
       ]
     }

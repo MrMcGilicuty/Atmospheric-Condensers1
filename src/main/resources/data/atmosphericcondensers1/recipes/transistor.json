@@ -1,14 +1,14 @@
 {
-    "type": "atmosphericcondensers1:transistor_fabrication",
+    "type": "atmospheric_condensers:transistor_fabrication",
     "ingredients": [
       {
-        "item": "atmosphericcondensers1:transistor_head"
+        "item": "atmospheric_condensers:transistor_head"
       },
       {
-        "item": "atmosphericcondensers1:transistor_feet"
+        "item": "atmospheric_condensers:transistor_feet"
       }
     ],
   "output": {
-    "item": "atmosphericcondensers1:transistor"
+    "item": "atmospheric_condensers:transistor"
   }
 }

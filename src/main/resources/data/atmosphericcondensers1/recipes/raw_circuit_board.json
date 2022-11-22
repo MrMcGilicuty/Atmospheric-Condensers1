@@ -1,5 +1,5 @@
 {
-  "type": "atmosphericcondensers1:pressing",
+  "type": "atmospheric_condensers:pressing",
   "ingredients": [
     {
       "item": "minecraft:paper"
@@ -18,6 +18,6 @@
     }
   ],
   "output": {
-    "item": "atmosphericcondensers1:raw_circuit_board"
+    "item": "atmospheric_condensers:raw_circuit_board"
   }
 }

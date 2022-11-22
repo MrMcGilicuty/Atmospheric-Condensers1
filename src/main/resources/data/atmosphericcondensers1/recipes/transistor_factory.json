@@ -10,7 +10,7 @@
   ],
   "key": {
     "I": {
-      "item": "atmosphericcondensers1:silicon"
+      "item": "atmospheric_condensers:silicon"
     },
     "S": {
       "tag": "forge:ingots/steel"
@@ -23,7 +23,7 @@
     }
   },
   "result": {
-    "item": "atmosphericcondensers1:transistor_factory",
+    "item": "atmospheric_condensers:transistor_factory",
     "count": 1
   }
 }

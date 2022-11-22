@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "atmospheric_condensers:block/condenser_housing" },
+    "facing=east": { "model": "atmospheric_condensers:block/condenser_housing", "y": 90 },
+    "facing=south": { "model": "atmospheric_condensers:block/condenser_housing", "y": 180 },
+    "facing=west": { "model": "atmospheric_condensers:block/condenser_housing", "y": 270 }
+  }
+}
